@@ -72,3 +72,7 @@ def add(num1, num2):
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3
+
+I spend a lot of time reading [R bloggers][1] and [Simply Statistics][2]
+[1]: http://www.r-bloggers.com/ "R bloggers"
+[2]: http://simplystatistics.org/ "Simply Statistics" 
